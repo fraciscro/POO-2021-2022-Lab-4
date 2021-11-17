@@ -44,12 +44,12 @@ A empresa dispõe de um conjunto de viaturas para alugar. Entre essas viaturas, 
 
 O contrato de aluguer pode ser estabelecido por empresas ou particulares (a título individual ou por em serviço de uma empresa) .
 
-No mesmo contrato pode constar o aluguer de diversas viaturas. Por motivos de promocionais e de faturação, a empresa AlfaRent, necessita de possuir informação sobre:
+No mesmo contrato pode constar o aluguer de diversas viaturas. Por motivos de promocionais e de faturação, a empresa necessita de possuir informação sobre:
 
 - A relação familiar entre os particulares (ex: se o marido/esposa tiver alugado anteriormente um veículo, um novo aluguer terá um desconto de 10\%);
 - A empresa em nome da qual um particular efetua o aluguer de uma viatura para serviço;
 - O volume de vendas efetuado a determinado conjunto de empresas de um grupo económico;
-- Após o fim do contrato de aluguer, há emissão de uma fartura onde são descriminados os serviços prestados.
+- Após o fim do contrato de aluguer, há emissão de uma fatura onde são descriminados os serviços prestados.
 
 ## Parte 4
 
